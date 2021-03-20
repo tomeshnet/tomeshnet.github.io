@@ -1,0 +1,242 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID://Toronto Mesh/Events//NONSGML v1.0//EN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/Toronto
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:20210316@tomesh.net
+ORGANIZER;CN="Toronto Mesh":MAILTO:hello@tomesh.net
+LOCATION:Toronto Public Library (Virtual)
+SUMMARY:TPL Workshop: How to Reclaim the Internet?
+URL:https://tomesh.net/2021-03-16/how-to-reclaim-the-internet/
+DESCRIPTION;ALTREP="Workshop series at the Toronto Public Library \n\nFor details, link here: https://tomesh.net/2021-03-16/how-to-reclaim-the-internet/":Workshop series at the Toronto Public Library \n\nFor details, link here: https://tomesh.net/2021-03-16/how-to-reclaim-the-internet/
+DTSTART;TZID=America/Toronto:20210316T190000
+DTEND;TZID=America/Toronto:20210316T203000
+DTSTAMP:20210316T000000
+END:VEVENT
+BEGIN:VEVENT
+UID:20210302@tomesh.net
+ORGANIZER;CN="Toronto Mesh":MAILTO:hello@tomesh.net
+LOCATION:Toronto Public Library (Virtual)
+SUMMARY:TPL Workshop: Who Owns the Internet?
+URL:https://tomesh.net/2021-03-02/who-owns-the-internet/
+DESCRIPTION;ALTREP="Workshop series at the Toronto Public Library \n\nFor details, link here: https://tomesh.net/2021-03-02/who-owns-the-internet/":Workshop series at the Toronto Public Library \n\nFor details, link here: https://tomesh.net/2021-03-02/who-owns-the-internet/
+DTSTART;TZID=America/Toronto:20210302T190000
+DTEND;TZID=America/Toronto:20210302T203000
+DTSTAMP:20210302T000000
+END:VEVENT
+BEGIN:VEVENT
+UID:20201119@tomesh.net
+ORGANIZER;CN="Toronto Mesh":MAILTO:hello@tomesh.net
+LOCATION:Big Blue Button Video Chat
+SUMMARY:Meet and Greet/Project Update
+URL:https://tomesh.net/2020-11-19/project-update/
+DESCRIPTION;ALTREP="Meet the members of Toronto Mesh - Virtually \n\nFor details, link here: https://tomesh.net/2020-11-19/project-update/":Meet the members of Toronto Mesh - Virtually \n\nFor details, link here: https://tomesh.net/2020-11-19/project-update/
+DTSTART;TZID=America/Toronto:20201119T190000
+DTEND;TZID=America/Toronto:20201119T210000
+DTSTAMP:20201119T000000
+END:VEVENT
+BEGIN:VEVENT
+UID:20201022@tomesh.net
+ORGANIZER;CN="Toronto Mesh":MAILTO:hello@tomesh.net
+LOCATION:Big Blue Button Video Chat
+SUMMARY:Meet and Greet/Project Update
+URL:https://tomesh.net/2020-10-22/project-update/
+DESCRIPTION;ALTREP="Meet the members of Toronto Mesh - Virtually \n\nFor details, link here: https://tomesh.net/2020-10-22/project-update/":Meet the members of Toronto Mesh - Virtually \n\nFor details, link here: https://tomesh.net/2020-10-22/project-update/
+DTSTART;TZID=America/Toronto:20201022T190000
+DTEND;TZID=America/Toronto:20201022T210000
+DTSTAMP:20201022T000000
+END:VEVENT
+BEGIN:VEVENT
+UID:20200929@tomesh.net
+ORGANIZER;CN="Toronto Mesh":MAILTO:hello@tomesh.net
+LOCATION:Zoom Video Chat
+SUMMARY:Civic Tech Toronto Meetup
+URL:https://tomesh.net/2020-09-29/civic-tech/
+DESCRIPTION;ALTREP="A short introductory presentation to Toronto Mesh \n\nFor details, link here: https://tomesh.net/2020-09-29/civic-tech/":A short introductory presentation to Toronto Mesh \n\nFor details, link here: https://tomesh.net/2020-09-29/civic-tech/
+DTSTART;TZID=America/Toronto:20200929T190000
+DTEND;TZID=America/Toronto:20200929T210000
+DTSTAMP:20200929T000000
+END:VEVENT
+BEGIN:VEVENT
+UID:20200924@tomesh.net
+ORGANIZER;CN="Toronto Mesh":MAILTO:hello@tomesh.net
+LOCATION:Big Blue Button Video Chat
+SUMMARY:Meet and Greet/Project Update
+URL:https://tomesh.net/2020-09-24/project-update/
+DESCRIPTION;ALTREP="Meet the members of Toronto Mesh - Virtually \n\nFor details, link here: https://tomesh.net/2020-09-24/project-update/":Meet the members of Toronto Mesh - Virtually \n\nFor details, link here: https://tomesh.net/2020-09-24/project-update/
+DTSTART;TZID=America/Toronto:20200924T190000
+DTEND;TZID=America/Toronto:20200924T210000
+DTSTAMP:20200924T000000
+END:VEVENT
+BEGIN:VEVENT
+UID:20200813@tomesh.net
+ORGANIZER;CN="Toronto Mesh":MAILTO:hello@tomesh.net
+LOCATION:Big Blue Button Video Chat
+SUMMARY:Project Update
+URL:https://tomesh.net/2020-08-13/project-update/
+DESCRIPTION;ALTREP="Meet the members of Toronto Mesh - Virtually \n\nFor details, link here: https://tomesh.net/2020-08-13/project-update/":Meet the members of Toronto Mesh - Virtually \n\nFor details, link here: https://tomesh.net/2020-08-13/project-update/
+DTSTART;TZID=America/Toronto:20200813T190000
+DTEND;TZID=America/Toronto:20200813T210000
+DTSTAMP:20200813T000000
+END:VEVENT
+BEGIN:VEVENT
+UID:20200716@tomesh.net
+ORGANIZER;CN="Toronto Mesh":MAILTO:hello@tomesh.net
+LOCATION:Big Blue Button Video Chat
+SUMMARY:Virtual Meet and Greet
+URL:https://tomesh.net/2020-07-16/meet-and-greet/
+DESCRIPTION;ALTREP="Meet the members of Toronto Mesh - Virtually \n\nFor details, link here: https://tomesh.net/2020-07-16/meet-and-greet/":Meet the members of Toronto Mesh - Virtually \n\nFor details, link here: https://tomesh.net/2020-07-16/meet-and-greet/
+DTSTART;TZID=America/Toronto:20200716T190000
+DTEND;TZID=America/Toronto:20200716T210000
+DTSTAMP:20200716T000000
+END:VEVENT
+BEGIN:VEVENT
+UID:20200528@tomesh.net
+ORGANIZER;CN="Toronto Mesh":MAILTO:hello@tomesh.net
+LOCATION:Big Blue Button Video Chat
+SUMMARY:Virtual Meet and Greet
+URL:https://tomesh.net/2020-05-28/meet-and-greet/
+DESCRIPTION;ALTREP="Meet the members of Toronto Mesh - Virtually \n\nFor details, link here: https://tomesh.net/2020-05-28/meet-and-greet/":Meet the members of Toronto Mesh - Virtually \n\nFor details, link here: https://tomesh.net/2020-05-28/meet-and-greet/
+DTSTART;TZID=America/Toronto:20200528T190000
+DTEND;TZID=America/Toronto:20200528T210000
+DTSTAMP:20200528T000000
+END:VEVENT
+BEGIN:VEVENT
+UID:20200430@tomesh.net
+ORGANIZER;CN="Toronto Mesh":MAILTO:hello@tomesh.net
+LOCATION:Big Blue Button Video Chat
+SUMMARY:Virtual Meet and Greet
+URL:https://tomesh.net/2020-04-30/meet-and-greet/
+DESCRIPTION;ALTREP="Meet the members of Toronto Mesh - Virtually \n\nFor details, link here: https://tomesh.net/2020-04-30/meet-and-greet/":Meet the members of Toronto Mesh - Virtually \n\nFor details, link here: https://tomesh.net/2020-04-30/meet-and-greet/
+DTSTART;TZID=America/Toronto:20200430T190000
+DTEND;TZID=America/Toronto:20200430T210000
+DTSTAMP:20200430T000000
+END:VEVENT
+BEGIN:VEVENT
+UID:20200404@tomesh.net
+ORGANIZER;CN="Toronto Mesh":MAILTO:hello@tomesh.net
+LOCATION:Zoom Meeting ID 963940070
+SUMMARY:Community Infrastructure Learning Group
+URL:https://tomesh.net/2020-04-04/community-infrastructure-learning-group/
+DESCRIPTION;ALTREP="Learning p2p infrastructure management \n\nFor details, link here: https://tomesh.net/2020-04-04/community-infrastructure-learning-group/":Learning p2p infrastructure management \n\nFor details, link here: https://tomesh.net/2020-04-04/community-infrastructure-learning-group/
+DTSTART;TZID=America/Toronto:20200404T140000
+DTEND;TZID=America/Toronto:20200404T150000
+DTSTAMP:20200404T000000
+END:VEVENT
+BEGIN:VEVENT
+UID:20200326@tomesh.net
+ORGANIZER;CN="Toronto Mesh":MAILTO:hello@tomesh.net
+LOCATION:
+SUMMARY:Meet and Greet (Canceled)
+URL:https://tomesh.net/2020-03-26/meet-and-greet/
+DESCRIPTION;ALTREP="Meeting Canceled due to COVID-19 \n\nFor details, link here: https://tomesh.net/2020-03-26/meet-and-greet/":Meeting Canceled due to COVID-19 \n\nFor details, link here: https://tomesh.net/2020-03-26/meet-and-greet/
+DTSTART;TZID=America/Toronto:20200326T190000
+DTEND;TZID=America/Toronto:20200326T210000
+DTSTAMP:20200326T000000
+END:VEVENT
+BEGIN:VEVENT
+UID:20200321@tomesh.net
+ORGANIZER;CN="Toronto Mesh":MAILTO:hello@tomesh.net
+LOCATION:Zoom Meeting ID 963940070
+SUMMARY:Community Infrastructure Learning Group
+URL:https://tomesh.net/2020-03-21/community-infrastructure-learning-group/
+DESCRIPTION;ALTREP="Learning p2p infrastructure management \n\nFor details, link here: https://tomesh.net/2020-03-21/community-infrastructure-learning-group/":Learning p2p infrastructure management \n\nFor details, link here: https://tomesh.net/2020-03-21/community-infrastructure-learning-group/
+DTSTART;TZID=America/Toronto:20200321T140000
+DTEND;TZID=America/Toronto:20200321T150000
+DTSTAMP:20200321T000000
+END:VEVENT
+BEGIN:VEVENT
+UID:20200307@tomesh.net
+ORGANIZER;CN="Toronto Mesh":MAILTO:hello@tomesh.net
+LOCATION:Zoom Meeting ID 963940070
+SUMMARY:Community Infrastructure Learning Group
+URL:https://tomesh.net/2020-03-07/community-infrastructure-learning-group/
+DESCRIPTION;ALTREP="Learning p2p infrastructure management \n\nFor details, link here: https://tomesh.net/2020-03-07/community-infrastructure-learning-group/":Learning p2p infrastructure management \n\nFor details, link here: https://tomesh.net/2020-03-07/community-infrastructure-learning-group/
+DTSTART;TZID=America/Toronto:20200307T140000
+DTEND;TZID=America/Toronto:20200307T150000
+DTSTAMP:20200307T000000
+END:VEVENT
+BEGIN:VEVENT
+UID:20200227@tomesh.net
+ORGANIZER;CN="Toronto Mesh":MAILTO:hello@tomesh.net
+LOCATION:Free Geek Toronto, 180 Sudbury St
+SUMMARY:Meet and Greet
+URL:https://tomesh.net/2020-02-27/meet-and-greet/
+DESCRIPTION;ALTREP="Meet the members of Toronto Mesh \n\nFor details, link here: https://tomesh.net/2020-02-27/meet-and-greet/":Meet the members of Toronto Mesh \n\nFor details, link here: https://tomesh.net/2020-02-27/meet-and-greet/
+DTSTART;TZID=America/Toronto:20200227T190000
+DTEND;TZID=America/Toronto:20200227T210000
+DTSTAMP:20200227T000000
+END:VEVENT
+BEGIN:VEVENT
+UID:20200222@tomesh.net
+ORGANIZER;CN="Toronto Mesh":MAILTO:hello@tomesh.net
+LOCATION:Zoom Meeting ID 963940070
+SUMMARY:Community Infrastructure Learning Group
+URL:https://tomesh.net/2020-02-22/community-infrastructure-learning-group/
+DESCRIPTION;ALTREP="Learning p2p infrastructure management \n\nFor details, link here: https://tomesh.net/2020-02-22/community-infrastructure-learning-group/":Learning p2p infrastructure management \n\nFor details, link here: https://tomesh.net/2020-02-22/community-infrastructure-learning-group/
+DTSTART;TZID=America/Toronto:20200222T140000
+DTEND;TZID=America/Toronto:20200222T150000
+DTSTAMP:20200222T000000
+END:VEVENT
+BEGIN:VEVENT
+UID:20200208@tomesh.net
+ORGANIZER;CN="Toronto Mesh":MAILTO:hello@tomesh.net
+LOCATION:Zoom Meeting ID 963940070
+SUMMARY:Community Infrastructure Learning Group
+URL:https://tomesh.net/2020-02-08/community-infrastructure-learning-group/
+DESCRIPTION;ALTREP="Learning p2p infrastructure management \n\nFor details, link here: https://tomesh.net/2020-02-08/community-infrastructure-learning-group/":Learning p2p infrastructure management \n\nFor details, link here: https://tomesh.net/2020-02-08/community-infrastructure-learning-group/
+DTSTART;TZID=America/Toronto:20200208T140000
+DTEND;TZID=America/Toronto:20200208T150000
+DTSTAMP:20200208T000000
+END:VEVENT
+BEGIN:VEVENT
+UID:20200125@tomesh.net
+ORGANIZER;CN="Toronto Mesh":MAILTO:hello@tomesh.net
+LOCATION:Zoom Meeting ID 963940070
+SUMMARY:Community Infrastructure Learning Group
+URL:https://tomesh.net/2020-01-25/community-infrastructure-learning-group/
+DESCRIPTION;ALTREP="Learning p2p infrastructure management \n\nFor details, link here: https://tomesh.net/2020-01-25/community-infrastructure-learning-group/":Learning p2p infrastructure management \n\nFor details, link here: https://tomesh.net/2020-01-25/community-infrastructure-learning-group/
+DTSTART;TZID=America/Toronto:20200125T140000
+DTEND;TZID=America/Toronto:20200125T150000
+DTSTAMP:20200125T000000
+END:VEVENT
+BEGIN:VEVENT
+UID:20200111@tomesh.net
+ORGANIZER;CN="Toronto Mesh":MAILTO:hello@tomesh.net
+LOCATION:Zoom Meeting ID 963940070
+SUMMARY:Community Infrastructure Learning Group
+URL:https://tomesh.net/2020-01-11/community-infrastructure-learning-group/
+DESCRIPTION;ALTREP="Learning p2p infrastructure management \n\nFor details, link here: https://tomesh.net/2020-01-11/community-infrastructure-learning-group/":Learning p2p infrastructure management \n\nFor details, link here: https://tomesh.net/2020-01-11/community-infrastructure-learning-group/
+DTSTART;TZID=America/Toronto:20200111T140000
+DTEND;TZID=America/Toronto:20200111T150000
+DTSTAMP:20200111T000000
+END:VEVENT
+BEGIN:VEVENT
+UID:20191121@tomesh.net
+ORGANIZER;CN="Toronto Mesh":MAILTO:hello@tomesh.net
+LOCATION:Free Geek Toronto, 180 Sudbury St
+SUMMARY:Planning Session
+URL:https://tomesh.net/2019-11-21/planning-session/
+DESCRIPTION;ALTREP="Winter planning session for Toronto Mesh \n\nFor details, link here: https://tomesh.net/2019-11-21/planning-session/":Winter planning session for Toronto Mesh \n\nFor details, link here: https://tomesh.net/2019-11-21/planning-session/
+DTSTART;TZID=America/Toronto:20191121T183000
+DTEND;TZID=America/Toronto:20191121T213000
+DTSTAMP:20191121T000000
+END:VEVENT
+END:VCALENDAR
